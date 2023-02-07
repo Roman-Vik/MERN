@@ -1,7 +1,7 @@
 import React from "react";
 
-const CreatePage = () => {
-  return (
-      <h1>CreatePage</h1>
-  )
+export const CreatePage = () => {
+    return (
+        <h1>CreatePage</h1>
+    )
 }

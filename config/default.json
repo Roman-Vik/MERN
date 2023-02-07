@@ -1,0 +1,6 @@
+{
+  "port" : 7000,
+  "host": "localhost",
+  "DB_URL": "mongodb+srv://Roman:mern@cluster-mern.rtwkmd4.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "1a2b-3c4d-5e6f-7g8h"
+}
